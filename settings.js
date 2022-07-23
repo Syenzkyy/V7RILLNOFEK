@@ -24,23 +24,23 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
-global.region = "Indonesia" //bebas
-global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["622150996855","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.botname = "𝙎𝙮𝙚𝙣𝙯𝙠𝙮𝘽𝙤𝙩𝙯 𝙑𝟳" //namabot kalian
+global.ownername= "𝘚𝘺𝘦𝘯𝘻𝘬𝘺 || 𝘛𝘪𝘬𝘵𝘰𝘬" //nama kalian
+global.myweb ="https://instagram/syenzky" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/Akiravfx._" //bebas asal jan hapus
+global.github = "https://Syenzkyy.github.io/" //bebas
+global.email = "syenzkypubgmy@gmail.com" //bebas
+global.region = "Malaysia" //bebas
+global.timezone = 'Asia/Sabah' //  timezone wib
+global.premium = ['60109561479'] //premium user
+global.owner = ["60109561479","601121151150"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "60109561479" // nomor wa kalian
+global.ownernomerr = "601121151150" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© 𝖘𝖞𝖊𝖓𝖟𝖐𝖞||𝖇𝖔𝖙𝖟𝖟 𝖒𝖞 !' //sticker wm ubah
+global.author = 'Syenzky Yang Buat !' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
